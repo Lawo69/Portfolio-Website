@@ -1,0 +1,79 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "Lorem ipsu dolor sit amenyt, conste hdu jterwhuer jksdaybcj. shgydnekfi ns hdftvehcnem nikeon sgewh dbieu nkowml"
+        },
+        {
+            "id": 22,
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "description": "Lorem ipsu dolor sit amenyt, conste hdu jterwhuer jksdaybcj. shgydnekfi ns hdftvehcnem nikeon sgewh dbieu nkowml"
+        },
+        {
+            "id": 3,
+            "src": "./img/feather-pen-2.png",
+            "title": "UI & UX Design",
+            "description": "Lorem ipsu dolor sit amenyt, conste hdu jterwhuer jksdaybcj. shgydnekfi ns hdftvehcnem nikeon sgewh dbieu nkowml"
+        },
+        {
+            "id": 4,
+            "src": "./img/feather-pen-1.png",
+            "title": "Webflow Development",
+            "description": "Lorem ipsu dolor sit amenyt, conste hdu jterwhuer jksdaybcj. shgydnekfi ns hdftvehcnem nikeon sgewh dbieu nkowml"
+        }
+    ],
+
+    "portfolio": [
+        {
+            "id": 1,
+            "src": "./img/placeholder-image.png",
+            "title": "Ahuse",
+            "description": "Lorem ipsu dolor sit amenyt, conste hdu jterwhuer jksdaybcj. shgydnekfi ns hdftvehcnem nikeon sgewh dbieu nkowml",
+            "link": "View In Github"
+        },
+        {
+            "id": 22,
+            "src": "./img/placeholder-image-1.png",
+            "title": "Back-End",
+            "description": "Lorem ipsu dolor sit amenyt, conste hdu jterwhuer jksdaybcj. shgydnekfi ns hdftvehcnem nikeon sgewh dbieu nkowml",
+            "link": "View In Github"
+        },
+        {
+            "id": 3,
+            "src": "./img/placeholder-image-2.png",
+            "title": "UI & UX Design",
+            "description": "Lorem ipsu dolor sit amenyt, conste hdu jterwhuer jksdaybcj. shgydnekfi ns hdftvehcnem nikeon sgewh dbieu nkowml",
+            "link": "View In Github"
+        }
+    ],
+    
+    "testimonial": [
+        {
+            "id": 1,
+            "count": "5",
+            "src": "./img/avatar-image.png",
+            "description": "Lorem ipsu dolor sit amenyt, conste hdu jterwhuer jksdaybcj. shgydnekfi ns hdftvehcnem nikeon sgewh dbieu nkowml",
+            "author_name": "Dianne Russel",
+            "author_designation": "Starbucks"
+        },
+        {
+            "id": 2,
+            "count": "5",
+            "src": "./img/avatar-image-1.png",
+            "description": "Lorem ipsu dolor sit amenyt, conste hdu jterwhuer jksdaybcj. shgydnekfi ns hdftvehcnem nikeon sgewh dbieu nkowml",
+            "author_name": "Dianne Russel",
+            "author_designation": "Starbucks"
+        },
+        {
+            "id": 3,
+            "count": "5",
+            "src": "./img/avatar-image-2.png",
+            "description": "Lorem ipsu dolor sit amenyt, conste hdu jterwhuer jksdaybcj. shgydnekfi ns hdftvehcnem nikeon sgewh dbieu nkowml",
+            "author_name": "Dianne Russel",
+            "author_designation": "Starbucks"
+        }
+    ]
+}
