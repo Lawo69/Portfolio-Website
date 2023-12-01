@@ -1,3 +1,4 @@
+import React from 'react';
 import data from "../../data/index.json";
 
 export default function MySkills() {
@@ -17,7 +18,12 @@ export default function MySkills() {
                             <h3 className="skills--section--title">{item.title}</h3>
                             <p className="skills--section--description">{item.description}</p>
                         </div>
-                    </div> 
+                        <div className="skills--section--tags">
+                            {item.tags && Array.isArray(item.tags) && item.tags.map((tag, tagIndex) => (
+                                <span key={tagIndex} className="skills--section--tag">{tag}</span>
+                            ))}
+                        </div>
+                    </div>
                 ))}
             </div>
         </section>

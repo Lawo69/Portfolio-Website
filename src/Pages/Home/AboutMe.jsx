@@ -9,10 +9,7 @@ export default function AboutMe() {
                     <p className="section--title">About</p>
                     <h1 className="skills--section--heading">About Me</h1>
                     <p className="hero--section--description">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem incidunt dolorum quas blanditiis esse dicta iste, id laudantium voluptatem ullam saepe itaque aliquid velit ipsum ex, ab aspernatur odio? Id!
-                    </p>
-                    <p className="hero--section--description">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem incidunt dolorum quas blanditiis esse dicta iste, id laudantium voluptatem ullam saepe itaque aliquid velit ipsum ex, ab aspernatur odio? Id!
+                        I'm Supun Gunawardhana, a 23-year-old from Sri Lanka. Educated at St. Aloysius College Ratnapura and Currently a software engineering undergraduate student at The Open University Sri Lanka since 2020. Passionate about front-end development for websites and mobile applications. I enjoy blending creativity with logic to design user-friendly interfaces.  Oh, and I can handle the backend too. Let's code and create together!
                     </p>
                 </div>
             </div>
