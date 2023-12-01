@@ -25,7 +25,6 @@ export default function HeroSection() {
           <p className="section--title">Hey, I'm Supun Gunawardhana</p>
           <div className="hero--section--title">
             <span className="hero--section--title--color" ref={el} />
-            
           </div>
           <p className="hero--section--description">
           I craft software and websites that seamlessly blend functionality with exceptional user experiences.

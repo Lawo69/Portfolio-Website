@@ -5,6 +5,7 @@ body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
+    scroll-behavior: smooth;
 }
 
 h1,
@@ -226,7 +227,7 @@ h3 {
 
 .hero--section--title {
     color: var(--heading-color);
-    font-size: 74.667px;
+    font-size: 65px;
     font-weight: 700;
     line-height: 90px;
     align-self: stretch;
@@ -234,6 +235,10 @@ h3 {
 
 .hero--section--title--color {
     color: var(--primary);
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 90px;
+    align-self: stretch;
 }
 
 .hero--section--description {

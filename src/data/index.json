@@ -5,7 +5,7 @@
             "src": "./img/product-chain-1.png",
             "title": "Front-end Development",
             "description": "Frontend development is my true passion, where creativity meets technology. I love bringing designs to life, creating user-friendly interfaces for web and mobile.",
-            "tags": ["HTML", "CSS", "JavaScript", "Bootsrap", "ReactJs", "Dart"]
+            "tags": ["HTML", "CSS", "Js", "Bootsrap", "ReactJs", "Dart"]
         },
         {
             "id": 22,
@@ -19,7 +19,7 @@
     "portfolio": [
         {
             "id": 1,
-            "src": "./img/placeholder-image.png",
+            "src": "./img/mobile-2.png",
             "title": "Coffeemate",
             "category": "mobile",
             "description": "Coffeemate, an Android app built with Java using Android Studio, is a social media platform that helps people combat loneliness by connecting them with nearby individuals for chats, walks, meals, or drinks. Users can connect based on shared interests, fostering meaningful connections.",
@@ -27,53 +27,8 @@
             "preview": "#MyPortfolio"
         },
         {
-            "id": 22,
-            "src": "./img/placeholder-image-1.png",
-            "title": "University of Srilanka",
-            "category": "web",
-            "description": "This is a website made for the University of Sri Lanka YouTube channel using HTML, CSS, and JS. Whether you're a student, parent, or interested in higher education, this YouTube Channel delivers valuable insights. Stay updated with informative videos on admissions, campus life, and academic excellence.",
-            "link": "https://github.com/Lawo69/University-of-Srilanka",
-            "preview": "https://lawo69.github.io/University-of-Srilanka/"
-        },
-        {
-            "id": 3,
-            "src": "./img/placeholder-image-2.png",
-            "title": "Luckey Web Game",
-            "category": "web",
-            "description": "Just launched my fun number-guessing game, Luckey! It's made by using HTML, CSS, and JavaScript. Try your luck and guess the number between 0 and 10. The colorful luck meter changes based on your performance. Can you reach \"So Lucky\"? Give it a try and challenge your luck today!",
-            "link": "https://github.com/Lawo69/Luckey",
-            "preview": "https://lawo69.github.io/Luckey/"
-        },
-        {
-            "id": 4,
-            "src": "./img/placeholder-image-2.png",
-            "title": "Exchange Rate Cal",
-            "category": "tools",
-            "description": "This is a simple web-based exchange rate calculator that allows users to convert between different currencies. It fetches real-time exchange rate data from an external API and provides an easy-to-use interface for currency conversion. It's made by using HTML, CSS, and JavaScript.",
-            "link": "https://github.com/Lawo69/Exchange-Rate-Calculator",
-            "preview": "https://lawo69.github.io/Exchange-Rate-Calculator/"
-        },
-        {
-            "id": 5,
-            "src": "./img/placeholder-image-2.png",
-            "title": "To-Do",
-            "category": "tools",
-            "description": "This is a simple To-Do List web application built using HTML, CSS, and JavaScript. You can use this application to manage your tasks and keep track of your daily activities. This app is the perfect way to stay organized and on top of your tasks. It's simple and easy to handle your To-Do lists.",
-            "link": "https://github.com/Lawo69/To-Do",
-            "preview": "https://lawo69.github.io/To-Do/"
-        },
-        {
-            "id": 6,
-            "src": "./img/placeholder-image-2.png",
-            "title": "PIXMATO",
-            "category": "web",
-            "description": "PIXMATO, is your go-to e-commerce destination for exquisite wall art. Immerse yourself in a seamless shopping experience powered by ReactJS and SCSS. Explore our curated collection, where creativity meets craftsmanship, on a visually stunning website designed for PIXMATO.",
-            "link": "https://github.com/Lawo69/PIXMATO",
-            "preview": "#MyPortfolio"
-        },
-        {
-            "id": 7,
-            "src": "./img/placeholder-image-2.png",
+            "id": 2,
+            "src": "./img/web-1.png",
             "title": "Apollo Car Service",
             "category": "web",
             "description": "The Apollo Car Service is a web template for you made of HTML, CSS, and Js. This project showcases a professional and responsive website for an automobile service business. Whether you're a car enthusiast or a car owner looking for top-notch servicing, Apollo Car Service has you covered.",
@@ -81,8 +36,54 @@
             "preview": "https://lawo69.github.io/Apollo-Car-Service/"
         },
         {
+            "id": 3,
+            "src": "./img/mobile-1.png",
+            "title": "OBUDDY",
+            "category": "mobile",
+            "description": "OBUDDY is a mobile app made with Flutter to help students connect and build friendships on campus. Allowing students to communicate and form meaningful relationships within their campus community. This app has a lot of features like chatting, posting, and checking availability.",
+            "link": "https://github.com/ChaniduMadalagama/OBUDDY",
+            "preview": "#MyPortfolio"
+        },
+        {
+            "id": 4,
+            "src": "./img/web-3.png",
+            "title": "PIXMATO",
+            "category": "web",
+            "description": "PIXMATO, is your go-to e-commerce destination for exquisite wall art. Immerse yourself in a seamless shopping experience powered by ReactJS and SCSS. Explore our curated collection, where creativity meets craftsmanship, on a visually stunning website designed for PIXMATO.",
+            "link": "https://github.com/Lawo69/PIXMATO",
+            "preview": "#MyPortfolio"
+        },
+        {
+            "id": 5,
+            "src": "./img/tool-2.png",
+            "title": "Exchange Rate Cal",
+            "category": "tools",
+            "description": "This is a simple web-based exchange rate calculator that allows users to convert between different currencies. It fetches real-time exchange rate data from an external API and provides an easy-to-use interface for currency conversion. It's made by using HTML, CSS, and JavaScript.",
+            "link": "https://github.com/Lawo69/Exchange-Rate-Calculator",
+            "preview": "https://lawo69.github.io/Exchange-Rate-Calculator/"
+        },
+        {
+            "id": 6,
+            "src": "./img/web-2.png",
+            "title": "Luckey Web Game",
+            "category": "web",
+            "description": "Just launched my fun number-guessing game, Luckey! It's made by using HTML, CSS, and JavaScript. Try your luck and guess the number between 0 and 10. The colorful luck meter changes based on your performance. Can you reach \"So Lucky\"? Give it a try and challenge your luck today!",
+            "link": "https://github.com/Lawo69/Luckey",
+            "preview": "https://lawo69.github.io/Luckey/"
+        },
+        
+        {
+            "id": 7,
+            "src": "./img/web-4.png",
+            "title": "University of Srilanka",
+            "category": "web",
+            "description": "This is a website made for the University of Sri Lanka YouTube channel using HTML, CSS, and JS. Whether you're a student, parent, or interested in higher education, this YouTube Channel delivers valuable insights. Stay updated with informative videos on admissions, campus life, and academic excellence.",
+            "link": "https://github.com/Lawo69/University-of-Srilanka",
+            "preview": "https://lawo69.github.io/University-of-Srilanka/"
+        },
+        {
             "id": 8,
-            "src": "./img/placeholder-image-2.png",
+            "src": "./img/web-5.png",
             "title": "Tech Mentor",
             "category": "web",
             "description": "The Tech Mentor University web page project. It's created by HTML, CSS, and Js. This project serves as the official web page for Tech Mentor University, providing students and visitors with access to course details, university news, offers, contact information, and registration details.",
@@ -91,16 +92,16 @@
         },
         {
             "id": 9,
-            "src": "./img/placeholder-image-2.png",
-            "title": "OBUDDY",
-            "category": "mobile",
-            "description": "OBUDDY is a mobile app made with Flutter to help students connect and build friendships on campus. Allowing students to communicate and form meaningful relationships within their campus community. This app has a lot of features like chatting, posting, and checking availability.",
-            "link": "https://github.com/ChaniduMadalagama/OBUDDY",
-            "preview": "#MyPortfolio"
+            "src": "./img/tool-2.png",
+            "title": "To-Do",
+            "category": "tools",
+            "description": "This is a simple To-Do List web application built using HTML, CSS, and JavaScript. You can use this application to manage your tasks and keep track of your daily activities. This app is the perfect way to stay organized and on top of your tasks. It's simple and easy to handle your To-Do lists.",
+            "link": "https://github.com/Lawo69/To-Do",
+            "preview": "https://lawo69.github.io/To-Do/"
         },
         {
             "id": 10,
-            "src": "./img/placeholder-image-2.png",
+            "src": "./img/ui-1.png",
             "title": "Resto UI/UX",
             "category": "ui/ux",
             "description": "Resto is a platform where clients will be able to make their orders in the restaurants easily by using this application. It is made by using Adobe XD. They can find restaurants and check their menu of food. After the order clients can pay it and after they can track the order.",
