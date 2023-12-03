@@ -31,10 +31,10 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="MyPortfolio"
+                to="mySkills"
                 className="text-md"
               >
-                Portfolio
+                Skills
               </Link>
             </li>
             <li>
@@ -57,10 +57,10 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="Contact"
+                to="MyPortfolio"
                 className="text-md"
               >
-                Contact
+                Portfolio
               </Link>
             </li>
             <li>
@@ -70,19 +70,33 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="Blog"
+                to="MyBlog"
                 className="text-md"
               >
                 Blog
               </Link>
             </li>
+            <li>
+              <Link
+                activeClass="navbar--active-content"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+                to="Contact"
+                className="text-md"
+              >
+                Contact
+              </Link>
+            </li>
+            
           </ul>
         </div>
         <div className="footer--social--icon">
           <ul>
             <li>
               <a
-                href="https://www.facebook.com/"
+                href="https://web.facebook.com/profile.php?id=100086297815808"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -103,7 +117,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/lawo__69?fbclid=IwAR2SXf_LdC1cn4SFNAxysDcLnmgF4nvFX13fTgR8BF-ia_LEuS2QV_LXdmM"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -126,7 +140,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.twitter.com/"
+                href="https://twitter.com/supunla22784799"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -147,7 +161,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/supungunawardhana/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
