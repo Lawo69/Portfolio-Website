@@ -55,7 +55,7 @@
         },
         {
             "id": 5,
-            "src": "./img/tool-2.png",
+            "src": "./img/tool-1.png",
             "title": "Exchange Rate Cal",
             "category": "tools",
             "description": "This is a simple web-based exchange rate calculator that allows users to convert between different currencies. It fetches real-time exchange rate data from an external API and provides an easy-to-use interface for currency conversion. It's made by using HTML, CSS, and JavaScript.",
