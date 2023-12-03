@@ -919,10 +919,10 @@ input[type="checkbox"] {
   @media only screen and (max-width: 767px) {
     .hero--section {
       padding: 50px 15px 0px 15px;
-      gap: 32px;
+      gap: 3px;
     }
     .hero--section--title--color {
-        font-size: 30px;
+        font-size: 36px;
     }
     .hero--section--description {
         font-size: 18px;
