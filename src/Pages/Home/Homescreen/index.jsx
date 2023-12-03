@@ -1,4 +1,5 @@
 import AboutMe from "../AboutMe";
+import MyBlog from "../Blog";
 import ContactMe from "../ContactMe";
 import Footer from "../Footer";
 import HeroSection from "../HeroSection";
@@ -13,6 +14,7 @@ export default function Home () {
             <MySkills />
             <AboutMe />
             <MyPortfolio />
+            <MyBlog />
             <ContactMe />
             <Footer />
         </>

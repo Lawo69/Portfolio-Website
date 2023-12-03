@@ -135,5 +135,29 @@
             "author_name": "Dianne Russel",
             "author_designation": "Starbucks"
         }
+    ],
+
+    "blog": [
+        {
+            "id": 1,
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTZLYOHughx8-k8FgnGhyphenhyphengxywungQOTw5hDknSvbU5Ru5vQ5WQ2iM2mudOmfWwFGjgS4ihBvKfrVRQaP8Qc9Kyv_tU6kctgmKb9HEtjHopG3qXQVNVd2fPuF1A_vFYNihjlPVO_OZMDp1EpqiHz502gQEmkM2_NkOW6Bfpkeu0HISc2yQTHJuDHv2pZd8/s16000-rw/PoP-Lost-Crown-Announced_06-08-23.png",
+            "title": "Introducing the Next-Generation Ray-Ban Meta Smart Glasses in Partnership with Meta",
+            "description": "In a ground breaking collaboration with Essilor Luxottica , Meta ( formerly Facebook ) proudly presents the much - anticipated Ray -Ban Meta smart glasses , the next evolution in wearable technology. Designed...",
+            "preview": "https://www.techwadiya.us/2023/10/introducing-next-generation-ray-ban.html"
+        },
+        {
+            "id": 2,
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Z2F5TKPOf2FBmmhCQRlm47G4Uj1bJHrrVm8CpelJ2-kwDZGjvSNmfhz9C5S4l5swE-P4fHl-0_wmurQciFqnoYRMC_8rGhlFSLL8qBwZ5G26sW9nYHE9SPbX05IvIZqjl7rEKsvAxJNpLn3mraVfjQ9IFMIEkgjUD8Q0aLAk1JrDCM6Pst1vgAjaZDQ/s16000-rw/emo.jpg",
+            "title": "Emo Robot: A Fun and Educational Companion for People of All Ages",
+            "description": "Emo is a new type of desktop companion that is powered by artificial intelligence (AI). It is designed to be fun, engaging, and educational. Emo can learn and grow over time, and it...",
+            "preview": "https://www.techwadiya.us/2023/09/emo-robot-fun-and-educational-companion.html"
+        },
+        {
+            "id": 3,
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGqoyxIqP3vORSs2A6Wen8lR9mff_Ut174w969487zsl8jgAwKZzHEoo1imgmFfeTrgEsN1oAR5CQgUdpCGSFKwLrA_H1Y6dtBZmjd8HV-NtQ2m6PVX6Irn-tzwBFhjeUoHnBXkpO2F-kckHqsqr8Okm76Vburr2Hz3as4uOlG7BmOsEzrimrzpzYDjk4/s16000-rw/google.jpg",
+            "title": "Google's 25th Birthday: A Time to Thank the Company for All It Has Done",
+            "description": "On September 27, 1998, two Stanford graduate students, Sergey Brin and Larry Page, founded Google Inc. in a rented garage in Menlo Park, California. Their goal was to create a better search engine...",
+            "preview": "https://www.techwadiya.us/2023/09/google-turns-25-quarter-century-of.html"
+        }
     ]
 }
