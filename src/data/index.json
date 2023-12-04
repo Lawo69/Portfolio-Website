@@ -19,12 +19,12 @@
     "portfolio": [
         {
             "id": 1,
-            "src": "./img/mobile-2.png",
-            "title": "Coffeemate",
-            "category": "mobile",
-            "description": "Coffeemate, an Android app built with Java using Android Studio, is a social media platform that helps people combat loneliness by connecting them with nearby individuals for chats, walks, meals, or drinks. Users can connect based on shared interests, fostering meaningful connections.",
-            "link": "https://github.com/Lawo69/Coffeemate",
-            "preview": "#MyPortfolio"
+            "src": "./img/web-6.png",
+            "title": "OBUDDY Website",
+            "category": "web",
+            "description": "OBUDDY is packed with features that cater to the needs of students and encourage social engagement within the campus community and this web for promoting OBUDDY mobile application. Built with HTML, CSS, JavaScript, Bootstrap, Tiny Slider, Font Awesome, and Venobox.",
+            "link": "https://github.com/Lawo69/OBUDDY-App-Website",
+            "preview": "https://lawo69.github.io/OBUDDY-App-Website/"
         },
         {
             "id": 2,
@@ -71,7 +71,6 @@
             "link": "https://github.com/Lawo69/Luckey",
             "preview": "https://lawo69.github.io/Luckey/"
         },
-        
         {
             "id": 7,
             "src": "./img/web-4.png",
@@ -107,6 +106,15 @@
             "description": "Resto is a platform where clients will be able to make their orders in the restaurants easily by using this application. It is made by using Adobe XD. They can find restaurants and check their menu of food. After the order clients can pay it and after they can track the order.",
             "link": "https://www.behance.net/gallery/171991871/Resto-App-UI-Food-Ordering-Application",
             "preview": "https://www.behance.net/gallery/171991871/Resto-App-UI-Food-Ordering-Application"
+        },
+        {
+            "id": 11,
+            "src": "./img/mobile-2.png",
+            "title": "Coffeemate",
+            "category": "mobile",
+            "description": "Coffeemate, an Android app built with Java using Android Studio, is a social media platform that helps people combat loneliness by connecting them with nearby individuals for chats, walks, meals, or drinks. Users can connect based on shared interests, fostering meaningful connections.",
+            "link": "https://github.com/Lawo69/Coffeemate",
+            "preview": "#MyPortfolio"
         }
     ],
     
