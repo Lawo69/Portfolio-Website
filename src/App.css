@@ -6,6 +6,7 @@ body {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     scroll-behavior: smooth;
+    background-color: #000000;
 }
 
 h1,
@@ -21,14 +22,26 @@ hr {
   color: #000000;
   width: 100%;
 }
+img {
+  border-radius: 12px;
+}
 
-:root {
+/* :root {
     --primary: #5e3bee;
     --heading-color: #282938;
     --bg-shade: #f5fcff;
     --darkblue: #1c1e53;
     --black: #000000;
     --white: #ffffff;
+} */
+
+:root {
+  --primary: #5e3bee;
+  --heading-color: #CCC9DC;
+  --bg-shade: #0C1821;
+  --lavender: #CCC9DC;
+  --black: #000000;
+  --white: #ffffff;
 }
 
 .btn {
@@ -47,40 +60,36 @@ hr {
 }
 
 .btn-outline-primary {
-    color: var(--primary);
-    background-color: var(--white);
+    color: var(--lavender);
+    background-color: var(--black);
     border: 1px solid var(--primary);
 }
 
 .btn-outline-primary:hover {
     color: var(--white);
     background-color: var(--primary);
+    border: 1px solid var(--primary);
 }
-.btn-primary:focus {
-  outline: none; /* Remove default focus outline */
-  box-shadow: 0 0 0 2px /* your focus color, e.g., rgba(0, 0, 255, 0.5) */;
-  /* Add any other styles for the focused state */
-}
+
 .btn-primary {
     color: var(--white);
     background-color: var(--primary);
     border: 1px solid var(--primary);
 }
 
-.btn-primary.active {
-  color: var(--primary);
-  background-color: var(--white);
+.btn-primary:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px;
 }
 
-.btn-primary {
-  color: var(--white);
-  background-color: var(--primary);
-  border: 1px solid var(--primary);
+.btn-primary.active {
+  color: var(--primary);
+  background-color: var(--black);
 }
 
 .btn-primary:hover {
   color: var(--primary);
-  background-color: var(--white);
+  background-color: var(--black);
 }
 /* Globle CSS Ends */
 /* Main Heading */
@@ -109,7 +118,7 @@ h3 {
 /* Paragraphs test large medium small */
 /* Body 1 */
 .text-lg {
-    color: var(--darkblue);
+    color: var(--lavender);
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -118,7 +127,7 @@ h3 {
 
 /* Body 2 */
 .text-md {
-    color: var(--darkblue);
+    color: var(--lavender);
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -127,7 +136,7 @@ h3 {
 
 /* Body 3 */
 .text-sm {
-    color: var(--black);
+    color: var(--lavender);
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -162,7 +171,7 @@ h3 {
     justify-content: space-between;
     align-items: center;
     padding: 1rem 85.333px;
-    background: var(--white);
+    background: var(--black);
     box-shadow: 0px 5.333px 80px 0 rgba(0, 0, 0, 0.1);
     position: fixed;
     top: 0;
@@ -184,7 +193,7 @@ h3 {
 
 /* Navbar Content */
 .navbar--content {
-    color: var(--darkblue);
+    color: var(--lavender);
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -204,7 +213,7 @@ h3 {
     align-items: center;
     justify-content: space-between;
     gap: 32px;
-    background-color: var(--bg-shade);
+    background-color: var(--black);
 }
 
 .hero--section--content--box {
@@ -242,7 +251,7 @@ h3 {
 }
 
 .hero--section--description {
-    color: var(--darkblue);
+    color: var(--lavender);
     font-size: 24px;
     font-weight: 400;
     line-height: 36px;
@@ -301,7 +310,7 @@ h3 {
 }
 
 .skills--section--card .skills--section--description {
-    color: var(--darkblue);
+    color: var(--lavender);
 }
 
 .skills--section--img {
@@ -311,7 +320,7 @@ h3 {
     align-items: center;
     gap: 13.3px;
     border-radius: 10.6px;
-    background: var(--white);
+    background: var(--lavender);
     box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.1);
 }
 
@@ -328,12 +337,13 @@ h3 {
     align-items: center;
     gap: 13.3px;
     border-radius: 10.6px;
-    background: var(--white);
+    background: var(--lavender);
     box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.1);
 }
 
 .skills--section--tag:hover {
-  background: var(--bg-shade);
+  background: var(--primary);
+  color: var(--lavender);
 }
 
 .skills--section--card--content {
@@ -352,7 +362,7 @@ h3 {
 }
 
 .skills--section--description {
-    color: var(--black);
+    color: var(--white);
     font-size: 21.3px;
     font-style: normal;
     font-weight: 400;
@@ -430,7 +440,7 @@ h3 {
     align-items: flex-start;
     gap: 0px;
     flex: 1 0 0;
-    background-color: var(--white);
+    background-color: var(--bg-shade);
     box-shadow: 0 0 32px 0 rgba(0, 0, 0, 0.15);
     cursor: pointer;
     border-radius: 12px;
@@ -469,7 +479,7 @@ h3 {
 
 .portfolio--preview:hover {
   color: var(--primary);
-  background-color: var(--white);
+  background-color: var(--bg-shade);
 }
 
 .portfolio--link {
@@ -578,8 +588,9 @@ h3 {
     align-items: center;
     align-self: stretch;
     border-radius: 8px;
+    color: var(--lavender);
     border: 1.333px solid var(--primary);
-    background: var(--white);
+    background: var(--black);
 }
 
 select {
@@ -639,6 +650,7 @@ input[type="checkbox"] {
     text-decoration: none;
 }
 .footer--items ul > li > a {
+    cursor: pointer;
     text-decoration: none;
 }
 .footer--social--icon > ul {
@@ -663,7 +675,7 @@ input[type="checkbox"] {
     align-self: stretch;
 }
 .footer--content {
-    color: var(--black);
+    color: var(--lavender);
     font-size: 18.667px;
     font-weight: 400;
     line-height: 28px;
@@ -860,7 +872,7 @@ input[type="checkbox"] {
     display: block;
     height: 0.188rem;
     width: 100%;
-    background-color: #000000;
+    background-color: #ffffff;
     border-radius: 0.625rem;
     transition: all ease-in-out 0.2s;
   }
@@ -878,7 +890,7 @@ input[type="checkbox"] {
       display: flex;
       align-items: center;
       justify-content: center;
-      background-color: rgba(255, 255, 255);
+      background-color: rgb(0, 0, 0);
       top: -40rem;
       left: 0;
       width: 100%;
@@ -949,7 +961,7 @@ input[type="checkbox"] {
     .portfolio--section--card {
       gap: 2px;
       flex: 1 0 0;
-      background-color: var(--white);
+      background-color: var(--bg-shade);
       box-shadow: 0 0 32px 0 rgba(0, 0, 0, 0.15);
       cursor: pointer;
       border-radius: 12px;

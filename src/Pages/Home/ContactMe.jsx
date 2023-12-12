@@ -6,7 +6,7 @@ export default function ContactMe() {
             <hr />
             <div>
                 <p className="sub--title">Get In Touch</p>
-                <h2>Contact Me</h2>
+                <h2 className="skills--section--heading">Contact Me</h2>
             </div>
             <form
                 action="https://formspree.io/f/xleyykpa"
