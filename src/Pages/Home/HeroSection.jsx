@@ -30,7 +30,7 @@ export default function HeroSection() {
           I craft software and websites that seamlessly blend functionality with exceptional user experiences.
           </p>
         </div>
-        <a href="./doc/cv.pdf" download className="btn btn-primary">
+        <a href="./doc/Supun_Gunawardhana_CV.pdf" download className="btn btn-primary">
         Download CV
         </a>
         

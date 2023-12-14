@@ -51,7 +51,7 @@
             "category": "web",
             "description": "PIXMATO, is your e-commerce destination for exquisite wall art. Immerse yourself in a seamless shopping experience powered by ReactJS and SCSS. Explore our collection, where creativity meets craftsmanship, on a visually stunning website designed for PIXMATO.",
             "link": "https://github.com/Lawo69/PIXMATO",
-            "preview": "#MyPortfolio"
+            "preview": "https://657b0c051c81b220c83959d4--timely-capybara-c190e9.netlify.app/"
         },
         {
             "id": 5,
@@ -115,6 +115,15 @@
             "description": "Coffeemate, an Android app built with Java using Android Studio, is a social media platform that helps people combat loneliness by connecting them with nearby individuals. Users can connect based on shared interests, fostering meaningful connections.",
             "link": "https://github.com/Lawo69/Coffeemate",
             "preview": "#MyPortfolio"
+        },
+        {
+            "id": 12,
+            "src": "./img/tool-3.png",
+            "title": "GPA Calculator",
+            "category": "tools",
+            "description": "This is a simple GPA calculator web application built using basic HTML, CSS, and JavaScript. This web-based GPA calculator that allows users to input their university subjects, grades, credits, and after calculate their current GPA value and Total Credits.",
+            "link": "https://github.com/Lawo69/GPA-Calculator",
+            "preview": "https://lawo69.github.io/GPA-Calculator/"
         }
     ],
     
