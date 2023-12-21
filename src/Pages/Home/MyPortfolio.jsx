@@ -99,7 +99,7 @@ export default function MyPortfolio() {
                     <button onClick={toggleShowAllProjects} className="btn btn-primary">
                         {showAllProjects ? 'View Less' : 'View More'}
                     </button>
-            </div>
+                </div>
             )}
         </section>
     );
