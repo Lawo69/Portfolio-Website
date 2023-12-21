@@ -112,6 +112,20 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={500}
+              to="MyEducation"
+              className="navbar--content"
+            >
+              Education
+            </Link>
+          </li>
+          <li>
+            <Link
+              onClick={closeMenu}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
               to="MyBlog"
               className="navbar--content"
             >

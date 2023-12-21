@@ -8,11 +8,57 @@
             "tags": ["HTML", "CSS", "Js", "Bootsrap", "ReactJs", "Dart"]
         },
         {
-            "id": 22,
+            "id": 2,
             "src": "./img/tag-1.png",
             "title": "Back-end Development",
             "description": "I enjoy the challenge of building robust systems and optimizing server-side logic, ensuring a seamless connection between databases and user interfaces.",
             "tags": ["Java", "C", "Python", "MySql", "Firebase"]
+        }
+    ],
+
+    "education": [
+        {
+            "id": 1,
+            "title": "Bachelor of Software Engineering Honours Undergraduate",
+            "description": "In 2020, I commenced my higher education journey at the Open University of Sri Lanka. Currently in my third year, I anticipate completing my degree program by 2024."
+        },
+        {
+            "id": 2,
+            "title": "General Certificate of Education (Advanced Level)",
+            "description": "In 2019, I undertook the GCE A/L exam, in the Engineering Technology stream. I successfully passed the exam, with a focus on the Information Technology subject."
+        }
+    ],
+
+    "certificate": [
+        {
+            "id": 1,
+            "title": "Sololearn Certificates",
+            "description": "I have successfully completed courses in PHP, Python Data Structure, JavaScript, Python for Beginners, and Java on the Sololearn platform.",
+            "link": "https://www.sololearn.com/en/profile/21224627"
+        },
+        {
+            "id": 2,
+            "title": "Introduction to Data Science",
+            "description": "I have successfully earned a student-level credential for completing the \"Introduction to Data Science\" course offered by Cisco Network Academy.",
+            "link": "https://www.credly.com/badges/30b78679-0d6f-4f87-88dd-559ec716ad7b/"
+        },
+        {
+            "id": 3,
+            "title": "Google Analytics for Beginners",
+            "description": "I have successfully completed the course \"Google Analytics for Beginners\" offered by Google Analytics Academy.",
+            "link": "https://drive.google.com/file/d/1Bs7AEi_7X8GvvAl-nW27VLjITL1YcFVT/view?usp=sharing"
+        },
+        {
+            "id": 4,
+            "title": "Design Thinking",
+            "description": "I have successfully completed the free online course titled \"Design Thinking\" provided by Great Learning Academy.",
+            "link": "https://verify.mygreatlearning.com/verify/YKNFNTTD"
+        },
+        {
+            "id": 3,
+            "title": "Programming for Everybody (Python)",
+            "description": "I have successfully completed the online non-credit course titled \"Programming for Everybody (Getting Started with Python),\" authorized by the University of Michigan and offered through Coursera.",
+            "link": "https://www.coursera.org/account/accomplishments/verify/9KBN7G972F4G"
         }
     ],
 

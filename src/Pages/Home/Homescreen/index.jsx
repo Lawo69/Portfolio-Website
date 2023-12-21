@@ -1,6 +1,7 @@
 import AboutMe from "../AboutMe";
 import MyBlog from "../Blog";
 import ContactMe from "../ContactMe";
+import MyEducation from "../MyEducation";
 import Footer from "../Footer";
 import HeroSection from "../HeroSection";
 import MyPortfolio from "../MyPortfolio";
@@ -14,6 +15,7 @@ export default function Home () {
             <MySkills />
             <AboutMe />
             <MyPortfolio />
+            <MyEducation />
             <MyBlog />
             <ContactMe />
             <Footer />
