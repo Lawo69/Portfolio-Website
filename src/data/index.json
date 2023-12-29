@@ -35,6 +35,11 @@
             "title": "Sololearn Certificates",
             "description": "I have successfully completed courses in PHP, Python Data Structure, JavaScript, Python for Beginners, and Java on the Sololearn platform.",
             "link": "https://www.sololearn.com/en/profile/21224627"
+        },        {
+            "id": 6,
+            "title": "Postman API Fundamentals Student Expert",
+            "description": "I have successfully earned a student-level credential for completing the \"Postman API Fundamentals Student Expert\" course offered by Postman Academy.",
+            "link": "https://badgr.com/public/assertions/BdvaJZ4iQya-TEeUJyJ_hg?identity__email=supungunawardana.me@gmail.com&action=download"
         },
         {
             "id": 2,
@@ -55,7 +60,7 @@
             "link": "https://verify.mygreatlearning.com/verify/YKNFNTTD"
         },
         {
-            "id": 3,
+            "id": 5,
             "title": "Programming for Everybody (Python)",
             "description": "I have successfully completed the online non-credit course titled \"Programming for Everybody (Getting Started with Python),\" authorized by the University of Michigan and offered through Coursera.",
             "link": "https://www.coursera.org/account/accomplishments/verify/9KBN7G972F4G"
