@@ -36,31 +36,31 @@
             "description": "I have successfully completed courses in PHP, Python Data Structure, JavaScript, Python for Beginners, and Java on the Sololearn platform.",
             "link": "https://www.sololearn.com/en/profile/21224627"
         },        {
-            "id": 6,
+            "id": 2,
             "title": "Postman API Fundamentals Student Expert",
             "description": "I have successfully earned a student-level credential for completing the \"Postman API Fundamentals Student Expert\" course offered by Postman Academy.",
             "link": "https://badgr.com/public/assertions/BdvaJZ4iQya-TEeUJyJ_hg?identity__email=supungunawardana.me@gmail.com&action=download"
         },
         {
-            "id": 2,
+            "id": 3,
             "title": "Introduction to Data Science",
             "description": "I have successfully earned a student-level credential for completing the \"Introduction to Data Science\" course offered by Cisco Network Academy.",
             "link": "https://www.credly.com/badges/30b78679-0d6f-4f87-88dd-559ec716ad7b/"
         },
         {
-            "id": 3,
+            "id": 4,
             "title": "Google Analytics for Beginners",
-            "description": "I have successfully completed the course \"Google Analytics for Beginners\" offered by Google Analytics Academy.",
+            "description": "I have successfully completed the course \"Google Analytics for Beginners\" offered by Google Analytics Academy powerd by Google.",
             "link": "https://drive.google.com/file/d/1Bs7AEi_7X8GvvAl-nW27VLjITL1YcFVT/view?usp=sharing"
         },
         {
-            "id": 4,
+            "id": 5,
             "title": "Design Thinking",
             "description": "I have successfully completed the free online course titled \"Design Thinking\" provided by Great Learning Academy.",
             "link": "https://verify.mygreatlearning.com/verify/YKNFNTTD"
         },
         {
-            "id": 5,
+            "id": 6,
             "title": "Programming for Everybody (Python)",
             "description": "I have successfully completed the online non-credit course titled \"Programming for Everybody (Getting Started with Python),\" authorized by the University of Michigan and offered through Coursera.",
             "link": "https://www.coursera.org/account/accomplishments/verify/9KBN7G972F4G"
@@ -97,6 +97,15 @@
         },
         {
             "id": 4,
+            "src": "./img/mobile-3.png",
+            "title": "Hades",
+            "category": "mobile",
+            "description": "Wondering about the time left on your life's clock? Embrace the journey with this app that calculates your estimated death day and sets up a countdown to make every moment count. Don't be serious just enjoy! This application build with Flutter framework.",
+            "link": "https://github.com/Lawo69/Hades-Death-Calculator",
+            "preview": "https://drive.google.com/file/d/1L0GjOki85gcibJHHpFZ5yujG7qZkHwAN/view?usp=sharing"
+        },
+        {
+            "id": 5,
             "src": "./img/web-3.png",
             "title": "PIXMATO",
             "category": "web",
@@ -105,7 +114,7 @@
             "preview": "https://pixmato.netlify.app/"
         },
         {
-            "id": 5,
+            "id": 6,
             "src": "./img/tool-1.png",
             "title": "Exchange Rate Cal",
             "category": "tools",
@@ -114,7 +123,7 @@
             "preview": "https://lawo69.github.io/Exchange-Rate-Calculator/"
         },
         {
-            "id": 6,
+            "id": 7,
             "src": "./img/web-2.png",
             "title": "Luckey Web Game",
             "category": "web",
@@ -123,7 +132,7 @@
             "preview": "https://lawo69.github.io/Luckey/"
         },
         {
-            "id": 7,
+            "id": 8,
             "src": "./img/web-4.png",
             "title": "University of Srilanka",
             "category": "web",
@@ -132,7 +141,7 @@
             "preview": "https://lawo69.github.io/University-of-Srilanka/"
         },
         {
-            "id": 8,
+            "id": 9,
             "src": "./img/web-5.png",
             "title": "Tech Mentor",
             "category": "web",
@@ -141,7 +150,7 @@
             "preview": "https://lawo69.github.io/Tech-Mentor/"
         },
         {
-            "id": 9,
+            "id": 10,
             "src": "./img/tool-2.png",
             "title": "To-Do",
             "category": "tools",
@@ -150,7 +159,7 @@
             "preview": "https://lawo69.github.io/To-Do/"
         },
         {
-            "id": 10,
+            "id": 11,
             "src": "./img/ui-1.png",
             "title": "Resto UI/UX",
             "category": "ui/ux",
@@ -159,7 +168,7 @@
             "preview": "https://www.behance.net/gallery/171991871/Resto-App-UI-Food-Ordering-Application"
         },
         {
-            "id": 11,
+            "id": 12,
             "src": "./img/mobile-2.png",
             "title": "Coffeemate",
             "category": "mobile",
@@ -168,7 +177,7 @@
             "preview": "#MyPortfolio"
         },
         {
-            "id": 12,
+            "id": 13,
             "src": "./img/tool-3.png",
             "title": "GPA Calculator",
             "category": "tools",
