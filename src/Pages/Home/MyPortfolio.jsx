@@ -59,7 +59,7 @@ export default function MyPortfolio() {
             </div>
 
             <div className="portfolio--section--container">
-                {filteredPortfolio?.slice(0, showAllProjects ? filteredPortfolio.length : visibleProjects).map((item, index) => (
+                {filteredPortfolio?.reverse().slice(0, showAllProjects ? filteredPortfolio.length : visibleProjects).map((item, index) => (
                     <div key={index} className="portfolio--section--card">
                         <div className="portfolio--section--img">
                             <img src={item.src} alt="Placeholder" />
