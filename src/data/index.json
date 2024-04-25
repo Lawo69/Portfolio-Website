@@ -210,7 +210,7 @@
             "category": "web",
             "description": "Sound Therapy by Fortude, a serene and immersive sound controlling website developed by FORTUDE, offers users a tranquil escape from the hustle and bustle of everyday life. I developed it using React.js. With Sound Therapy, users can control sounds and relax mind with it.",
             "link": "https://github.com/Lawo69/sound-therapy",
-            "preview": "https://sound-therapy.netlify.app/"
+            "preview": "http://shutterbugs.fortude.co"
         },
         {
             "id": 18,
@@ -219,7 +219,16 @@
             "category": "web",
             "description": "Kina Rain is an exciting and immersive gambling website designed to provide users with an exhilarating gaming experience. Developed using React.js and Firebase. Users can easily participate in their favorite games and compete for lucrative prizes and rewards.",
             "link": "https://github.com/Lawo69/Kina-Rain-Gablin-Website",
-            "preview": "https://kinarain.netlify.app/"
+            "preview": "https://kinarain.com/"
+        },
+        {
+            "id": 19,
+            "src": "./img/web-10.png",
+            "title": "OLO Car Service",
+            "category": "web",
+            "description": "This Olo website create by using ReactJs and Tailwin CSS. This is first look. The Car Servicing and Repair Marketplace You Can Trust Looking for a simple, convenient and affordable way to find car servicing and repair services in your area? You can trust OLO!.",
+            "link": "https://github.com/Lawo69/OLO",
+            "preview": "https://olo-web.netlify.app/"
         }
     ],
     
